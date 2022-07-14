@@ -20,7 +20,7 @@
 
 
 .content_title {
-    font-family: 'TT Travels;
+    font-family: 'TT Travels';
     font-weight: 700;
     font-size: 45px;
     line-height: 45px;
@@ -32,7 +32,7 @@
 }
 
 .content_paragraph{
-    font-family: 'Inter',sans-serif;
+    font-family: 'Inter';
     font-size: 14px;
     line-height: 19px;
     margin-left: 0px;
@@ -86,7 +86,7 @@
 
 .colors{
     width: 250px;
-    font-family: 'Inter',sans-serif;
+    font-family: 'Inter';
     font-size: 14px;
     line-height: 25px;
     margin-left: 0px;
@@ -141,7 +141,7 @@
     background-color: #000000;
     font-family: 'TT Travels';
     font-size: 17.61px;
-    font-weight: 600;
+    font-weight: 700;
     margin-top: 36px;
     margin-bottom: 78px;
     border-color: #000000;
