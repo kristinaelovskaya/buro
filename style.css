@@ -5,8 +5,14 @@
     font-family: 'Inter', sans-serif;
 }
 
-
-
+@font-face {
+    font-family: TT Travels; 
+    src: url(./Fonts/TT\ Travels-Regular.woff2); /* 400 */
+    src: url(/Fonts/TT\ Travels-Bold.woff2); /* 700 */
+   }
+   P {
+    font-family: TT Travels;
+   }
 
 .content_title {
     font-family: 'TT Travels',sans-serif;
