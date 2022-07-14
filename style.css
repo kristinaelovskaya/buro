@@ -1,8 +1,15 @@
 @font-face {
     font-family: 'TT Travels'; 
     src: url(./Fonts/TT-Travels-Regular.woff2);
-    src: url(./Fonts/TT-Travels-Bold.woff2)
-   }
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'TT Travels'; 
+    src: url(./Fonts/TT-Travels-Bold.woff2);
+    font-weight: 700;
+}
+
 
 .page {
     width: 1000px;
